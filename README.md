@@ -16,7 +16,7 @@ In both four sets were considered, the train set, two random subsets generated f
 * pandas
 * scikit-learn
 
-To install all the necessary python(we use Python 3.11.6) dependencies to run these experiments with the next command:
+To install all the necessary python(we use Python 3.11.6) dependencies to run these experiments use the next command:
 
 ```bash
 pip install -r requeriments.txt 
