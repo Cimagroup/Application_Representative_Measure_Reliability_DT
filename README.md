@@ -12,6 +12,8 @@ In both four sets were considered, the train set, two random subsets generated f
 
 In addition, the file correlationEpsilon_Similarity, we repeated the experiment for 100 subsets of Collision Dataset and the Spearman’s correlation (Sp) between the ε-representativeness and the metric of the ordering of the feature importance was computed obtaining significant correlation.
 
+![](representative_points.gif)
+
 ### List of main needed libraries
 
 * numpy
